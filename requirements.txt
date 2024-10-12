@@ -1,0 +1,7 @@
+sqlalchemy==1.4.52
+psycopg2==2.9.9
+mysqlclient
+pandas
+requests
+openpyxl
+pyarrow
